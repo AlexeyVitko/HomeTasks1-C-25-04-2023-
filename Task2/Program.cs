@@ -8,10 +8,10 @@
 // // a = -9 b = -3 -> max = -3
 
 Console.WriteLine("Введите число a");
-int nunber1 = Convert.ToInt32(Console.ReadLine());
+int number1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число b");
-int nunber2 = Convert.ToInt32(Console.ReadLine());
-if (nunber1>nunber2)
+int number2 = Convert.ToInt32(Console.ReadLine());
+if (number1>number2)
 {
  Console.WriteLine("Число a есть максимальное");   
 }
